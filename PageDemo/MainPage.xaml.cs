@@ -27,7 +27,7 @@ namespace PageDemo
 
         private void OnForward_Click(object sender, RoutedEventArgs e)
         {
-            
+            //Изменение
             NavigationService.Navigate(new Page1());
         }
 
